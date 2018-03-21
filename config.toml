@@ -1,7 +1,8 @@
 baseurl = "/"
 title = "Lucy Scarlett"
 theme = "hugo-nederburg-theme"
-languageCode = "en-us"
+languageCode = "nl"
+DefaultContentLanguage = "nl"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "lucyscarlett"
 # Enable Google Analytics by entering your tracking code
@@ -51,3 +52,7 @@ paginate = 5 #frontpage pagination
   facebook      = "https://www.facebook.com/lucyindewolken/"
   email         = "loes@lucyscarlett.com"
   twitter       = "https://twitter.com/indewolkenls"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
