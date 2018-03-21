@@ -1,7 +1,7 @@
 ---
 title: Wie zijn wij?
 author: Emiel Kollof
-type: page
+type: about
 date: 2015-11-05T11:11:06+00:00
 
 ---

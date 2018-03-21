@@ -10,6 +10,14 @@ googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
+[permalinks]
+  post = "/:year/:month/:slug"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  archive = "archives"
+
 [params]
   slogan = "In de wolken..."
   description = "Nieuws en info voor en door dampers in het Nederlands" # meta description
@@ -52,7 +60,3 @@ paginate = 5 #frontpage pagination
   facebook      = "https://www.facebook.com/lucyindewolken/"
   email         = "loes@lucyscarlett.com"
   twitter       = "https://twitter.com/indewolkenls"
-
-[taxonomies]
-  tag = "tags"
-  category = "categories"
