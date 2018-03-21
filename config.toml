@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://lucyscarlett.com"
 title = "Lucy Scarlett"
 theme = "hugo-nederburg-theme"
 languageCode = "nl"
