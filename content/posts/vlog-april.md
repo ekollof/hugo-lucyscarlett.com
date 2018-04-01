@@ -7,13 +7,7 @@ image: https://lh3.googleusercontent.com/6bgtSgzeRZBgXtOo5ya0zC7lfDwg7pOOgc2BB7L
 draft: false  # zet op 'false' als je klaar bent
 categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
   - Vlog
-tags:
-  - Vlog
-  - Dampen
-  - Vapen
-  - Informatie
-  - Savevape
-  - Aroma
+format: video
 ---
 
 Na een ruime week stilte door de griep is hier onze volg
