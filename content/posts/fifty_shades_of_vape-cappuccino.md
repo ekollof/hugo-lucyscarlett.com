@@ -9,7 +9,7 @@ categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
   - Review
 tags:
   - E-vloeistof
-  - fifty shades of vape
+  - fifty-shades-of-vape
   - Capucchino
 ---
 
