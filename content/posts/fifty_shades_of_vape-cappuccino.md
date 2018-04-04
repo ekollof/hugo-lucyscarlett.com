@@ -1,5 +1,5 @@
 ---
-title: FIFTY SHADES OF VAPE Cappuccino # Pas aan naar titel
+title: "FIFTY SHADES OF VAPE Cappuccino" # Pas aan naar titel
 author: lucy
 date: 2018-04-04T21:10:57+01:00 # controleer datum/tijd
 type: post
