@@ -10,4 +10,4 @@ categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
 
 In deze vlog ons standaard slap geouwehoer, smaak van de maand, online vragen en we hebben het over onze stream die we over 2 weken gaan hebben.In
 
-{< youtube YfYeUtf2mHk >}
+{{< youtube YfYeUtf2mHk >}}
