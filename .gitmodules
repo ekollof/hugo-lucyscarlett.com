@@ -1,3 +1,3 @@
-[submodule "themes/hugo-nederburg-theme"]
+[submodule "upstream"]
 	path = themes/hugo-nederburg-theme
-	url = git@github.com:ekollof/hugo-nederburg-theme.git
+	url = https://github.com/appernetic/hugo-nederburg-theme.git
