@@ -8,6 +8,7 @@ image: /wp-content/uploads/2018/02/duimnagel.jpg
 categories:
   - First Look
   - Reviews
+  - Hardware
 format: video
 
 ---
