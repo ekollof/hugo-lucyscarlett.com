@@ -6,6 +6,7 @@ date: 2018-03-21T21:31:00+01:00
 image: /wp-content/uploads/2018/02/Duimnagel-www-672x372.jpg
 categories:
   - Reviews
+  - E-Liquid
 format: video
 ---
 

@@ -7,6 +7,7 @@ url: /2018/03/18/fifty-shades-of-vape-peach-tea/
 image: /wp-content/uploads/2018/02/Duimnagel-www-672x372.jpg
 categories:
   - Reviews
+  - E-Liquid
 format: video
 
 ---

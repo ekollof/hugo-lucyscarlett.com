@@ -6,6 +6,7 @@ image: https://lh3.googleusercontent.com/WaH3cJBpy_CW_KVBjdJvp85dnSgwXOlwcHWvq2H
 draft: false  # zet op 'false' als je klaar bent
 categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
   - Reviews
+  - E-Liquid
 ---
 
 Loes reviewt 5 smaken van Tjuice. 

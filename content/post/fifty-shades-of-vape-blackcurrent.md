@@ -7,6 +7,7 @@ author: lucy
 draft: false  # zet op 'false' als je klaar bent
 categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
   - Reviews
+  - E-Liquid
 tags:
   - fifty-shades-of-vape
   - e-vloeistof

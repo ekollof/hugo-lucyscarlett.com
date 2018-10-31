@@ -6,6 +6,7 @@ image: https://lh3.googleusercontent.com/aoGb8yh9-9ALhLgoHpxMCwz_VvxtnbdxXPv5zit
 draft: false  # zet op 'false' als je klaar bent
 categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
   - Reviews
+  - Hardware
 ---
 
 Emiel heeft een nieuwe mod gekocht en laat zien wat er in de doos zit, hoe die werkt en verteld zijn 1e indruk.

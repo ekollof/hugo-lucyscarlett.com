@@ -6,7 +6,7 @@ date: 2018-02-07T20:59:30+00:00
 url: /2018/02/07/justfog-q16-en-aramax-max-apple/
 image: /wp-content/uploads/2018/02/duimnagel.jpg
 categories:
-  - nieuw binnen
+  - First Look
   - Reviews
 format: video
 

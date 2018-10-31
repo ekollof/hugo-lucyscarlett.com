@@ -6,6 +6,7 @@ image: https://lh3.googleusercontent.com/7CnzAu5RJih4HbcYwFF6ssra0gUunPXyHaQu3FK
 draft: false  # zet op 'false' als je klaar bent
 categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
   - Reviews
+  - E-Liquid
 tags:
   - fifty-shades-of-vape
   - e-vloeistof

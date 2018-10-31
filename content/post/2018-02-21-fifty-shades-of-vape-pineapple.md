@@ -6,7 +6,8 @@ date: 2018-02-21T20:26:00+00:00
 url: /2018/02/21/fifty-shades-of-vape-pineapple/
 image: /wp-content/uploads/2018/02/Duimnagel-www-672x372.jpg
 categories:
-  - Blogs
+  - Reviews
+  - E-Liquid
 format: video
 
 ---

@@ -6,6 +6,9 @@ image: https://lh3.googleusercontent.com/7tiE-Wsm7eKdMfl1RfExmkyALSsN62fw0P8OOC7
 draft: false  # zet op 'false' als je klaar bent
 categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
   - Hardware
+  - Reviews
+tags:
+  - podsystem
 ---
 
 Loes geeft haar mening over de SMOK FitKit na die een tijd gebruikt te hebben.

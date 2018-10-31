@@ -6,6 +6,7 @@ image: https://lh3.googleusercontent.com/QoRLTuLV_GOzzB4dhQTPneAlW7e8Uurr2o7ZPQL
 draft: false  # zet op 'false' als je klaar bent
 categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
   - Reviews
+  - Hardware
 ---
 
 Loes geeft haar oordeel na een paar weken gebruik.

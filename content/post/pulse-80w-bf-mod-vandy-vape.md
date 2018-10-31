@@ -6,6 +6,7 @@ image: https://lh3.googleusercontent.com/rggJuICwj_5IkB5SYL7PLJLc6aPN8Hk8u3Wn6k_
 draft: false  # zet op 'false' als je klaar bent
 categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
   - First look
+  - Hardware
 ---
 Emiel heeft een nieuwe mod. De Pulse 80w BF mod van Vandy Vape. In dit filmpje verteld  hij zijn 1e indruk en wat de mod kan
 
