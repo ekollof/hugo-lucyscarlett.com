@@ -46,17 +46,20 @@ paginate = 5 #frontpage pagination
   email = "loes@lucyscarlett.com"
 
   # Nav links in the side bar
-  [[params.navlinks]]
+  [[menu.main]]
   name = "Home"
   url = "/"
+  weight = 1
 
-  [[params.navlinks]]
+  [[menu.main]]
   name = "Wie zijn wij?"
   url = "wie-zijn-wij/"
+  weight = 2 
 
-  [[params.navlinks]]
+  [[menu.main]]
   name = "Laat van je horen"
   url = "contact/"
+  weight = 3
 
   [params.social]
   facebook      = "https://www.facebook.com/lucyindewolken/"
