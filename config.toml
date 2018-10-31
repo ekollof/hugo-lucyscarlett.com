@@ -17,6 +17,7 @@ paginate = 5 #frontpage pagination
   tag = "tags"
   category = "categories"
   archive = "archives"
+  post = "posts"
 
 [params]
   slogan = "In de wolken..."
