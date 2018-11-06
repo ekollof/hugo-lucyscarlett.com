@@ -3,7 +3,6 @@ title: Wie zijn wij?
 author: Emiel Kollof
 type: about
 date: 2015-11-05T11:11:06+00:00
-
 ---
 <figure id="attachment_32" style="max-width: 150px" class="wp-caption alignright"><img class="wp-image-32 size-thumbnail" src="/wp-content/uploads/2015/11/12032196_919411451428052_2547134040548855464_n-150x150.jpg" alt="Emiel Kollof" width="150" height="150" srcset="/wp-content/uploads/2015/11/12032196_919411451428052_2547134040548855464_n-150x150.jpg 150w, /wp-content/uploads/2015/11/12032196_919411451428052_2547134040548855464_n-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /><figcaption class="wp-caption-text">Emiel Kollof</figcaption></figure> 
 
