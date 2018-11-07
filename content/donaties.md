@@ -21,3 +21,10 @@ Mocht dat te ingewikkeld zijn, dan is er ook nog PayPal:
 <img alt="" border="0" src="https://www.paypalobjects.com/nl_NL/i/scr/pixel.gif" width="1" height="1">
 </form>
 </center>
+
+Direct overschrijven kan ook:
+
+<center>
+<script src="https://bunq.me/app/js/embed/bunqme.js"; type="text/javascript" async></script>
+<div id="bunqMe" data-alias="https://bunq.me/lucyscarlett"></div>
+</center>
