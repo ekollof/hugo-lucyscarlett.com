@@ -26,5 +26,5 @@ Direct overschrijven kan ook:
 
 <center>
 <script src="https://bunq.me/app/js/embed/bunqme.js"; type="text/javascript" async></script>
-<div id="bunqMe" data-alias="https://bunq.me/lucyscarlett"></div>
+<div id="bunqMe" data-alias="https://bunq.me/LucyScarlettIDW"></div>
 </center>
