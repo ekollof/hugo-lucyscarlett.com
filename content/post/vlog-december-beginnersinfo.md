@@ -7,36 +7,35 @@ draft: false  # zet op 'false' als je klaar bent
 categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
   - Vlog
 ---
-
 Vlog met beginners informatie. 
 
 Afkortingen samen gevat:
-DL= Direct Long 
-ML of MTL = Mond Long 
+DL= Direct Long
+ML of MTL = Mond Long
 
-Nic salts (nicotine zout) is zachter voor de keel. Met ML zit je vaak hoger in nicotine dan met DL. 
+Nic salts (nicotine zout) is zachter voor de keel. Met ML zit je vaak hoger in nicotine dan met DL.
 
-In het begin zal je wat meer gaan hoesten. 
+In het begin zal je wat meer gaan hoesten.
 
-PG= Propyleenglycol 
-VG= Vegetable glycerin. In het Nederlands heet het Plantaardige Glycerine 
+PG= Propyleenglycol
+VG= Vegetable glycerin. In het Nederlands heet het Plantaardige Glycerine
 
-Mod= het apparaat waar je accu of batterij in zit 
-Atomizer= is alles wat je op je mod draait 
-Clearomizer= alle tanks. Alle clearomizer zijn atomizers maar niet alle atomizers zijn clearomizers. 
-RDA= Rebuildable Deck Atomizer. Ook wel bekend als Dripper 
-RTA= Rebuildable Tank Atomizer. Een tank die geen fabrieks coil heeft maar alleen een zelfbouw dek. 
-RBA= Zelf bouw coil voor een tank. Ook wel RCH (rebuildable coil head) genoemd en nog vele andere benamingen. Dit heeft nog geen vaste benaming. 
+Mod= het apparaat waar je accu of batterij in zit
+Atomizer= is alles wat je op je mod draait
+Clearomizer= alle tanks. Alle clearomizer zijn atomizers maar niet alle atomizers zijn clearomizers.
+RDA= Rebuildable Deck Atomizer. Ook wel bekend als Dripper
+RTA= Rebuildable Tank Atomizer. Een tank die geen fabrieks coil heeft maar alleen een zelfbouw dek.
+RBA= Zelf bouw coil voor een tank. Ook wel RCH (rebuildable coil head) genoemd en nog vele andere benamingen. Dit heeft nog geen vaste benaming.
 
-Mech= Mechanische mod. Een mod zonder chips en de meest gangbare beveiligingen. Dit is niet voor beginners. 
+Mech= Mechanische mod. Een mod zonder chips en de meest gangbare beveiligingen. Dit is niet voor beginners.
 
-510 en EGO aansluiting zijn 2 standaarden van aansluitingen tussen de tank en mod. 
+510 en EGO aansluiting zijn 2 standaarden van aansluitingen tussen de tank en mod.
 
-510 en 810 zijn mondstuk maten. Veel DL hebben 810 en veel ML hebben 510. 510 is smaller dan de 810. 
+510 en 810 zijn mondstuk maten. Veel DL hebben 810 en veel ML hebben 510. 510 is smaller dan de 810.
 
-Gereguleerde mods heb je in 2 soorten. Met ingebouwde of met verwisselbare batterij. 
+Gereguleerde mods heb je in 2 soorten. Met ingebouwde of met verwisselbare batterij.
 
-Verwisselbare batterij heb je in 2 soorten. 18650 en 20700 of 21700. Dit is de maat van de batterij. Zorg dat je altijd de goede maat batterij koopt voor bij je mod. 
+Verwisselbare batterij heb je in 2 soorten. 18650 en 20700 of 21700. Dit is de maat van de batterij. Zorg dat je altijd de goede maat batterij koopt voor bij je mod.
 
 Let goed op de batterij veiligheid.
 
