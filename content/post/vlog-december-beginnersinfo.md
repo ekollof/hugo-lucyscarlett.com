@@ -9,7 +9,7 @@ categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
 ---
 Vlog met beginners informatie. 
 
-Afkortingen samen gevat:
+Afkortingen samen gevat:  
 DL= Direct Long  
 ML of MTL = Mond Long  
 
