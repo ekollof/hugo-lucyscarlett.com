@@ -10,22 +10,22 @@ categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
 Vlog met beginners informatie. 
 
 Afkortingen samen gevat:
-DL= Direct Long
-ML of MTL = Mond Long
+DL= Direct Long  
+ML of MTL = Mond Long  
 
 Nic salts (nicotine zout) is zachter voor de keel. Met ML zit je vaak hoger in nicotine dan met DL.
 
 In het begin zal je wat meer gaan hoesten.
 
-PG= Propyleenglycol
+PG= Propyleenglycol  
 VG= Vegetable glycerin. In het Nederlands heet het Plantaardige Glycerine
 
-Mod= het apparaat waar je accu of batterij in zit
-Atomizer= is alles wat je op je mod draait
-Clearomizer= alle tanks. Alle clearomizer zijn atomizers maar niet alle atomizers zijn clearomizers.
-RDA= Rebuildable Deck Atomizer. Ook wel bekend als Dripper
-RTA= Rebuildable Tank Atomizer. Een tank die geen fabrieks coil heeft maar alleen een zelfbouw dek.
-RBA= Zelf bouw coil voor een tank. Ook wel RCH (rebuildable coil head) genoemd en nog vele andere benamingen. Dit heeft nog geen vaste benaming.
+Mod= het apparaat waar je accu of batterij in zit  
+Atomizer= is alles wat je op je mod draait  
+Clearomizer= alle tanks. Alle clearomizer zijn atomizers maar niet alle atomizers zijn clearomizers.  
+RDA= Rebuildable Deck Atomizer. Ook wel bekend als Dripper  
+RTA= Rebuildable Tank Atomizer. Een tank die geen fabrieks coil heeft maar alleen een zelfbouw dek.  
+RBA= Zelf bouw coil voor een tank. Ook wel RCH (rebuildable coil head) genoemd en nog vele andere benamingen. Dit heeft nog geen vaste benaming.  
 
 Mech= Mechanische mod. Een mod zonder chips en de meest gangbare beveiligingen. Dit is niet voor beginners.
 
