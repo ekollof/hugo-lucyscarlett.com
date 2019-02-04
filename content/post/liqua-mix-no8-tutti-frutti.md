@@ -12,4 +12,4 @@ categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
 Loes reviewt de Mix lijn van Liqua.
 Ze doet het in delen en dit is deel 2 en we gaan verder met de 3e van dit deel nr8: Tutti Frutti
 
-{{< youtube AEfZePf15Q >}}
+{{< youtube IAEfZePf15Q >}}
