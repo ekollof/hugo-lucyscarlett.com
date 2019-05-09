@@ -10,6 +10,7 @@ categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
 
 Helaas door werk en PC problemen een paar dagen later maar hier is de vlog van mei
 In deze vlog hebben we het over dampen in de media, beantwoorden we vragen en natuurlijk smaak van de maand
+
 Links van de artikelen
 
 http://www.stoprokenvandaag.nl/stop-met-roken/studie-e-sigaret-gebruikers-belgen-versus-nederlanders/#more-6985>
