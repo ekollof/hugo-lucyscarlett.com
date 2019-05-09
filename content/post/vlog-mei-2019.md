@@ -13,9 +13,13 @@ In deze vlog hebben we het over dampen in de media, beantwoorden we vragen en na
 Links van de artikelen
 
 http://www.stoprokenvandaag.nl/stop-met-roken/studie-e-sigaret-gebruikers-belgen-versus-nederlanders/#more-6985>
+
 http://www.stoprokenvandaag.nl/onderzoek-en-wetenschap/studie-e-sigaretten-effectiever-dan-nicotinepleistersnicotine-kauwgum-om-rokers-helpen-stoppen/
+
 https://www.volkskrant.nl/de-gids/akelige-plaatjes-een-beloning-of-toch-de-e-sigaret-wat-we-weten-over-het-afzweren-van-de-peuk~b6808284/?referer=https%3A%2F%2Fwww.rokeninfo.nl%2Fpubliek%2Fnieuws%2Fbericht%2F%3Fbericht%3D2361
+
 https://www.volkskrant.nl/wetenschap/het-lijkt-een-oplossing-voor-stoppen-met-roken-maar-is-de-e-sigaret-wel-zo-gezond~bf16ed09/
+
 https://www.nrc.nl/nieuws/2019/01/31/stoppen-met-roken-lukt-heel-goed-met-e-sigaret-a3652476
 
 {{< youtube mmQDG1egA4k >}}
