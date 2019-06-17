@@ -4,7 +4,7 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Titel
 - type: text
   name: type
   label: type
@@ -12,13 +12,13 @@ fields:
   hidden: true
 - type: datetime
   name: date
-  label: date
+  label: Datum
 - type: file
   name: image
-  label: image
+  label: Plaatje
 - type: list
   name: categories
-  label: categories
+  label: 'Categorieen '
 pages:
 - content/post/live-stream-juni-2019.md
 - content/post/illusions-no-5-taste-of-gods.md
