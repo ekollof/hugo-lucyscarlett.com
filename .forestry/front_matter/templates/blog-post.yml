@@ -6,26 +6,19 @@ fields:
   name: title
   label: title
 - type: text
-  name: author
-  label: author
-- type: text
   name: type
   label: type
+  default: post
+  hidden: true
 - type: datetime
   name: date
   label: date
-- type: text
-  name: url
-  label: url
 - type: file
   name: image
   label: image
 - type: list
   name: categories
   label: categories
-- type: text
-  name: format
-  label: format
 pages:
 - content/post/live-stream-juni-2019.md
 - content/post/illusions-no-5-taste-of-gods.md
