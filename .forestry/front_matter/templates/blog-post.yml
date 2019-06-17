@@ -26,3 +26,5 @@ fields:
 - type: text
   name: format
   label: format
+pages:
+- content/post/illusions-no-4-medusa.md
