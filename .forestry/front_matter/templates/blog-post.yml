@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/aramax-power-en-aramax-strawberry-kiwi.md
 - content/post/helo-s-evo-nr1-solar-smash.md
 - content/post/live-stream-juni-2019.md
 - content/post/illusions-no-5-taste-of-gods.md
