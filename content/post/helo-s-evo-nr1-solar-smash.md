@@ -5,6 +5,8 @@ image = "/uploads/Duim eVo.jpg"
 title = "Helo's eVo nr1: Solar Smash"
 
 +++
-Loes reviewd 5 smaken van eVo. 
+Loes reviewd 5 smaken van eVo.
 
 Dit is de 1e smaak Solar Smash.
+
+{{< youtube KIG-mF2wZBM >}}
