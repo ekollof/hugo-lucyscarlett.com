@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/smok-nord-en-siren-song-van-charlie-noble.md
 - content/post/helo-s-evo-nr3-cryptic-blast.md
 - content/post/halo-s-evo-nr02-tropical-paradox.md
 - content/post/aramax-power-en-aramax-strawberry-kiwi.md
