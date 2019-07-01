@@ -1,6 +1,6 @@
 +++
 categories = ["E-vloeistof"]
-date = ""
+date = "2019-07-01T00:00:00+02:00"
 image = "/uploads/Duim eVo-2.jpg"
 title = "Helo's eVo nr3: Cryptic Blast"
 
