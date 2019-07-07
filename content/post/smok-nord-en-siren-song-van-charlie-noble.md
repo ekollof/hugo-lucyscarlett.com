@@ -1,6 +1,6 @@
 +++
 categories = ["Apparatuur"]
-date = "2019-07-07T00:00:00+02:00"
+date = "2019-07-04T00:00:00+02:00"
 image = "/uploads/D Smok Nord.jpg"
 title = "Smok Nord en Siren Song van Charlie Noble"
 
