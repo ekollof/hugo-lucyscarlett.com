@@ -1,7 +1,6 @@
 +++
 categories = ["Apparatuur"]
 date = ""
-draft = true
 image = "/uploads/D Smok Nord.jpg"
 title = "Smok Nord en Siren Song van Charlie Noble"
 
