@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/vlog-juli-2019-wetwijziging-wat-veranderd-er-en-meer.md
 - content/post/smok-nord-en-siren-song-van-charlie-noble.md
 - content/post/helo-s-evo-nr3-cryptic-blast.md
 - content/post/halo-s-evo-nr02-tropical-paradox.md
