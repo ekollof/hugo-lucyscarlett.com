@@ -1,7 +1,6 @@
 +++
 categories = []
 date = "2019-07-12T19:30:00+02:00"
-draft = true
 image = "/uploads/Duim eVo-2.jpg"
 title = " Helo eVo nr. 05: Coastal Collider"
 
