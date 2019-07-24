@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/live-stream-juli-2019.md
 - content/post/innokin-jem-en-american-stars-blue-magic.md
 - content/post/helo-evo-nr-05-coastal-collider.md
 - content/post/helo-s-evo-nr-4-insomnia.md
