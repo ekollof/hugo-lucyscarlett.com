@@ -5,7 +5,7 @@ image = "/uploads/D DVTCH.jpg"
 title = "DVTCH nr1 XSENO"
 
 +++
-Op velen verzoek een DVTCH review
+Op veler verzoek een DVTCH review
 
 3 smaken en we beginnen met XSENO.
 
