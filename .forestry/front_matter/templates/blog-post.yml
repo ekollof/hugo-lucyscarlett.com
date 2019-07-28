@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/aramax-power-oordeel.md
 - content/post/dvtch-nr2-xena.md
 - content/post/smok-nord-en-siren-song-van-charlie-noble.md
 - content/post/dvtch-nr1-xseno.md
