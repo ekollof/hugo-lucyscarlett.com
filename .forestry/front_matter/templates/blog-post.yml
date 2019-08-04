@@ -20,19 +20,20 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/vlog-augustus-2019.md
+- content/post/innokin-jem-en-american-stars-blue-magic.md
+- content/post/vlog-juli-2019-wetwijziging-wat-veranderd-er-en-meer.md
+- content/post/helo-s-evo-nr3-cryptic-blast.md
+- content/post/live-stream-juni-2019.md
 - content/post/aramax-power-oordeel.md
 - content/post/dvtch-nr2-xena.md
 - content/post/smok-nord-en-siren-song-van-charlie-noble.md
 - content/post/dvtch-nr1-xseno.md
 - content/post/live-stream-juli-2019.md
-- content/post/innokin-jem-en-american-stars-blue-magic.md
 - content/post/helo-evo-nr-05-coastal-collider.md
 - content/post/helo-s-evo-nr-4-insomnia.md
-- content/post/vlog-juli-2019-wetwijziging-wat-veranderd-er-en-meer.md
-- content/post/helo-s-evo-nr3-cryptic-blast.md
 - content/post/halo-s-evo-nr02-tropical-paradox.md
 - content/post/aramax-power-en-aramax-strawberry-kiwi.md
 - content/post/helo-s-evo-nr1-solar-smash.md
-- content/post/live-stream-juni-2019.md
 - content/post/illusions-no-5-taste-of-gods.md
 - content/post/illusions-no-4-medusa.md
