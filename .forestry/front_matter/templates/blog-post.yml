@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/dvtch-nr3-xanadu.md
 - content/post/vlog-augustus-2019.md
 - content/post/innokin-jem-en-american-stars-blue-magic.md
 - content/post/vlog-juli-2019-wetwijziging-wat-veranderd-er-en-meer.md
