@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/500-abonnees-giveaway.md
 - content/post/flavourtec-only-nr1-fruit-punch.md
 - content/post/dvtch-nr3-xanadu.md
 - content/post/vlog-augustus-2019.md
