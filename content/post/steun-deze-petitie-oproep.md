@@ -1,7 +1,6 @@
 +++
 categories = ["Oproepen", "Informatie"]
 date = "2019-08-29T11:59:00+02:00"
-draft = true
 image = "/uploads/cropped-logo-actief-326x175.png"
 title = "Steun deze petitie! (Oproep)"
 
