@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/steun-deze-petitie-oproep.md
 - content/post/only-nr5-pink-raspberry.md
 - content/post/only-nr4-gummibear.md
 - content/post/illusions-no-4-medusa.md
