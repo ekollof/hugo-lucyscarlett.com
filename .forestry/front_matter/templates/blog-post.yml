@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/vlog-september-coils-damp-bank-acvoda-petitie-en-meer.md
 - content/post/only-nr6-indian-fig.md
 - content/post/steun-deze-petitie-oproep.md
 - content/post/only-nr5-pink-raspberry.md
