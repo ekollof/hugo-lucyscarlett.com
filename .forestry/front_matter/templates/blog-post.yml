@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/rant-de-toekomst-van-vapen-is-duister.md
 - content/post/oordeel-innokin-jem-beter-dan-de-q16.md
 - content/post/vlog-september-coils-damp-bank-acvoda-petitie-en-meer.md
 - content/post/only-nr5-pink-raspberry.md
