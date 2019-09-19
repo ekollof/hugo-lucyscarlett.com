@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/flawless-nr3-game-over.md
 - content/post/flawless-nr2-hot-mess.md
 - content/post/flawless-nr1-can-t-stop.md
 - content/post/rant-de-toekomst-van-vapen-is-duister.md
