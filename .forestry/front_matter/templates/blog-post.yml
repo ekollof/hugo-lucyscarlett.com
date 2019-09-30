@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/mededeling-extra-live-stream.md
 - content/post/dvtch-megan.md
 - content/post/vaptio-cosmo-en-colinss-magic-green.md
 - content/post/flawless-nr4-won-t-stop.md
