@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/vlog-dampen-in-het-nieuws.md
 - content/post/dvtch-chloë.md
 - content/post/n-one-wegwerp-pods.md
 - content/post/extra-live-stream-radar-enquete.md
