@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/extra-live-stream-radar-enquete.md
 - content/post/mededeling-extra-live-stream.md
 - content/post/dvtch-megan.md
 - content/post/vaptio-cosmo-en-colinss-magic-green.md
