@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/n-one-wegwerp-pods.md
 - content/post/extra-live-stream-radar-enquete.md
 - content/post/mededeling-extra-live-stream.md
 - content/post/dvtch-megan.md
