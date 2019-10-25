@@ -7,4 +7,4 @@ title = "The Hundies $100 Spot"
 +++
 Loes heeft de The Hundies, $100 Spot e-vloeistof en verteld hoe die smaakt en wat ze er van vind.
 
-{{< youtube [G9QVwOM1lZc](https://youtu.be/G9QVwOM1lZc) >}}
+{{< youtube G9QVwOM1lZc >}}
