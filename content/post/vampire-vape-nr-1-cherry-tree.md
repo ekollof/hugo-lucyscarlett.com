@@ -5,8 +5,8 @@ image = "/uploads/d vv2.jpg"
 title = "Vampire Vape nr 1: Cherry Tree"
 
 +++
-Loes reviewt 6 smaken van Vampire Vape. 
+Loes reviewt 6 smaken van Vampire Vape.
 
 Dit is nr1 Cherry Tree
 
-{{< youtube [6ZPAg6nH-og](https://youtu.be/6ZPAg6nH-og) >}}
+{{< youtube 6ZPAg6nH-og >}}
