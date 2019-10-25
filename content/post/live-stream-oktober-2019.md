@@ -5,8 +5,8 @@ image = "/uploads/Live stream.jpg"
 title = "Live Stream Oktober 2019"
 
 +++
-We hadden weer een live stream.   
-  
+We hadden weer een live stream.
+
 We hebben het o.a. ove:  Acvoda, damp bank IJselstein, dr. Gera Nagelhout, we beantwoorden vragen en meer.
 
-{{< youtube [De-PNybZL5g](https://youtu.be/De-PNybZL5g) >}}
+{{< youtube [De-PNybZL5g](https://youtu.be/De-PNybZL5g) >}} 
