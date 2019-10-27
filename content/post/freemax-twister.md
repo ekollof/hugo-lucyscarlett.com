@@ -1,7 +1,6 @@
 +++
 categories = []
 date = "2019-11-03T19:30:00+01:00"
-draft = true
 image = "/uploads/d t.jpg"
 title = "FreeMax Twister"
 
