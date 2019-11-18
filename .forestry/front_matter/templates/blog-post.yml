@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/live-stream-november-2019.md
 - content/post/el-patron-nr2-tranquilo.md
 - content/post/el-patron-nr1-explosivos.md
 - content/post/vlit-preco-mtl-en-fuci-strawberry.md
