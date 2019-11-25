@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/dead-rabbit-rta.md
 - content/post/el-patron-nr4-el-diablo.md
 - content/post/el-patron-nr3-la-puta.md
 - content/post/live-stream-november-2019.md
