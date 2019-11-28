@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/el-patron-nr5-plomo.md
 - content/post/dead-rabbit-rta.md
 - content/post/el-patron-nr4-el-diablo.md
 - content/post/el-patron-nr3-la-puta.md
