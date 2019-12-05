@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/migo-nr2-peach-shake.md
 - content/post/migo-nr1-lemon-merinque.md
 - content/post/vlog-december-laatste-damp-nieuws-toekomst-plannen-en-nog-meer.md
 - content/post/el-patron-nr6-plata.md
