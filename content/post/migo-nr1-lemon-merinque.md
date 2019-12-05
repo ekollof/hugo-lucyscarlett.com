@@ -1,7 +1,6 @@
 +++
 categories = []
 date = 2019-12-04T23:00:00Z
-draft = true
 image = "/uploads/Duim Migo.jpg"
 title = "Migo nr1: Lemon Merinque"
 
