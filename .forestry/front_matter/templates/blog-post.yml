@@ -20,6 +20,7 @@ fields:
   name: categories
   label: 'Categorieen '
 pages:
+- content/post/migo-nr3-melon-smoothie.md
 - content/post/smok-mag.md
 - content/post/migo-nr2-peach-shake.md
 - content/post/migo-nr1-lemon-merinque.md
