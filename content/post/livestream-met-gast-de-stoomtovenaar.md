@@ -5,8 +5,8 @@ image = "/uploads/Live stream.jpg"
 title = "Livestream met gast: De Stoomtovenaar"
 
 +++
-Livestream met gast. 
+Livestream met gast.
 
-Deze maand: Martijn van de Stoomtovenaar
+Deze maand: **Martijn van de Stoomtovenaar**
 
 {{< youtube CIJpnMsslk8>}}
