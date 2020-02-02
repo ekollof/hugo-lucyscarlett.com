@@ -1,6 +1,6 @@
 +++
 categories = []
-date = 2020-02-02T21:00:00Z
+date = 2020-02-02T20:00:00Z
 image = "/uploads/Live stream.jpg"
 title = "Livestream met gasten"
 
