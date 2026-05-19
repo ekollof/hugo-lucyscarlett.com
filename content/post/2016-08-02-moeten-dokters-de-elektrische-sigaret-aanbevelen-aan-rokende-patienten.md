@@ -13,4 +13,4 @@ Ja.
 
 <http://www.acvoda.nl/2016/08/01/moeten-artsen-de-e-sigaret-aanbevelen-aan-hun-rokende-patienten/>
 
-&nbsp;
+ 

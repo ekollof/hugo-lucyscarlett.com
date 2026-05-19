@@ -13,4 +13,4 @@ Emiel heeft een nieuwe mod gekocht en laat zien wat er in de doos zit, hoe die w
 
 De kit is gekocht bij Ewolk door Emiel zelf: https://www.e-wolk.nl/nl/luxotic-nc-dual-20700-mod-mech-kit.html
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TIp4kW16ZTQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube TIp4kW16ZTQ >}}

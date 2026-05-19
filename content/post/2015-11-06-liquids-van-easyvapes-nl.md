@@ -14,16 +14,16 @@ Aangezien we nog op de post moesten wachten, laten we even weten wat we in onze 
 
 In Emiel&#8217;s tankjes:
 
-Indo Tea: <a href="https://easyvapes.nl/indo-tea-433" target="_blank">https://easyvapes.nl/indo-tea-433</a>
+Indo Tea: [https://easyvapes.nl/indo-tea-433](https://easyvapes.nl/indo-tea-433)
   
-Melon Mint Mash: <a href="https://easyvapes.nl/melon-mint-mash-445" target="_blank">https://easyvapes.nl/melon-mint-mash-445</a>
+Melon Mint Mash: [https://easyvapes.nl/melon-mint-mash-445](https://easyvapes.nl/melon-mint-mash-445)
 
 In Loes haar tanks:
 
-Banana Bread: <a href="https://easyvapes.nl/banana-bread-2288" target="_blank">https://easyvapes.nl/banana-bread-2288</a> (ADV kandidaat)
+Banana Bread: [https://easyvapes.nl/banana-bread-2288](https://easyvapes.nl/banana-bread-2288) (ADV kandidaat)
   
-San José&#8217;s Finest: <a href="https://easyvapes.nl/san-joses-finest-10" target="_blank">https://easyvapes.nl/san-joses-finest-10</a>
+San José&#8217;s Finest: [https://easyvapes.nl/san-joses-finest-10](https://easyvapes.nl/san-joses-finest-10)
 
-&nbsp;
+ 
 
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='474' height='297' src='https://www.youtube.com/embed/d0MExH3YqJ4?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span>
+{{< youtube d0MExH3YqJ4 >}}

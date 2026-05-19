@@ -13,4 +13,4 @@ Ik ben momenteel alles kwijt en dat terwijl ik op het punt sta om op vakantie te
 Dus voorlopig geen filmpjes. 
 Sorry.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QN7Jsk7BgHA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube QN7Jsk7BgHA >}}

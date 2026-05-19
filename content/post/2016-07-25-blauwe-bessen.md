@@ -14,10 +14,10 @@ Deze keer heeft Loes het over 3 vloeistoffen met blauwe bessen smaak.
   
 Alle 3 zijn door haarzelf gekocht bij Zwoofs
 
-<a href="https://www.zwoofs.nl/aramax-max-berry-e-liquid/" target="_blank">https://www.zwoofs.nl/aramax-max-berry-e-liquid/</a>
+[https://www.zwoofs.nl/aramax-max-berry-e-liquid/](https://www.zwoofs.nl/aramax-max-berry-e-liquid/)
   
-<a href="https://www.zwoofs.nl/liqua-blueberry-bosbes-e-liquid/" target="_blank">https://www.zwoofs.nl/liqua-blueberry-bosbes-e-liquid/</a>
+[https://www.zwoofs.nl/liqua-blueberry-bosbes-e-liquid/](https://www.zwoofs.nl/liqua-blueberry-bosbes-e-liquid/)
   
-<a href="https://www.zwoofs.nl/flavourtec-e-liquid-american-stars-blueberry-cheese-cake/" target="_blank">https://www.zwoofs.nl/flavourtec-e-liquid-american-stars-blueberry-cheese-cake/</a>
+[https://www.zwoofs.nl/flavourtec-e-liquid-american-stars-blueberry-cheese-cake/](https://www.zwoofs.nl/flavourtec-e-liquid-american-stars-blueberry-cheese-cake/)
 
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='474' height='297' src='https://www.youtube.com/embed/JmnHcYZbKk4?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span>
+{{< youtube JmnHcYZbKk4 >}}

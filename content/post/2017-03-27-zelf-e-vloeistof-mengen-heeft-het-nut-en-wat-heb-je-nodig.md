@@ -12,8 +12,8 @@ categories:
 ---
 Naar aanleiding van vragen van kijkers behandelt Emiel de zin en de onzin van het zelf mengen.
 
-Voor supplies (aroma&#8217;s, base, etc): <a href="http://savevape.nl" target="_blank">http://savevape.nl</a>
+Voor supplies (aroma&#8217;s, base, etc): [http://savevape.nl](http://savevape.nl)
   
-Starter kit (bekers/spuiten/pipetten/etc): <a href="http://www.e-wolk.nl/en/ejuice-dyi-kit.html" target="_blank">http://www.e-wolk.nl/en/ejuice-dyi-kit.html</a>
+Starter kit (bekers/spuiten/pipetten/etc): [http://www.e-wolk.nl/en/ejuice-dyi-kit.html](http://www.e-wolk.nl/en/ejuice-dyi-kit.html)
 
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='474' height='297' src='https://www.youtube.com/embed/UgBAPCW_0tg?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span>
+{{< youtube UgBAPCW_0tg >}}

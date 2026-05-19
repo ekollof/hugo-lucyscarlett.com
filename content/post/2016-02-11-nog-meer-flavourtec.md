@@ -16,12 +16,12 @@ Pina colada, Whisky, Brandy en Rum
 
 Alle vier bij Zwoofs gekocht
 
-Pina Colada &#8211; <a href="https://www.zwoofs.nl/flavourtec-e-liquid-pina-colada/" target="_blank">https://www.zwoofs.nl/flavourtec-e-liquid-pina-colada/</a>
+Pina Colada &#8211; [https://www.zwoofs.nl/flavourtec-e-liquid-pina-colada/](https://www.zwoofs.nl/flavourtec-e-liquid-pina-colada/)
   
-Whisky &#8211; <a href="https://www.zwoofs.nl/flavourtec-e-liquid-whisky/" target="_blank">https://www.zwoofs.nl/flavourtec-e-liquid-whisky/</a>
+Whisky &#8211; [https://www.zwoofs.nl/flavourtec-e-liquid-whisky/](https://www.zwoofs.nl/flavourtec-e-liquid-whisky/)
   
-Brandy &#8211; <a href="https://www.zwoofs.nl/flavourtec-e-liquid-brandy-cognac/" target="_blank">https://www.zwoofs.nl/flavourtec-e-liquid-brandy-cognac/</a>
+Brandy &#8211; [https://www.zwoofs.nl/flavourtec-e-liquid-brandy-cognac/](https://www.zwoofs.nl/flavourtec-e-liquid-brandy-cognac/)
   
-Rum &#8211; <a href="https://www.zwoofs.nl/flavourtec-e-liquid-rum/" target="_blank">https://www.zwoofs.nl/flavourtec-e-liquid-rum/</a>
+Rum &#8211; [https://www.zwoofs.nl/flavourtec-e-liquid-rum/](https://www.zwoofs.nl/flavourtec-e-liquid-rum/)
 
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='474' height='297' src='https://www.youtube.com/embed/YIZ1B5Hmf_8?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span>
+{{< youtube YIZ1B5Hmf_8 >}}

@@ -21,4 +21,4 @@ Dit is het 7e filmpje in een serie van 8: Aloë
 Deze vloeistoffen zijn gekocht bij easyvapes. Jammer genoeg doet hun website het niet meer. 
 Ze zijn ook te koop bij verschillende web en stenen winkels.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iSO1EzDTn90" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube iSO1EzDTn90 >}}

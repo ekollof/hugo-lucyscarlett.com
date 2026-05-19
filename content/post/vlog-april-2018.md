@@ -15,4 +15,4 @@ tags:
 Na een ruime week stilte door de griep is hier onze volg
 We hebben het over onze bestelling bij Savevape, dat we de griep hebben gehad, smaak van de maand en ander slap geouwehoer. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q9noE7Ved1Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube q9noE7Ved1Y >}}

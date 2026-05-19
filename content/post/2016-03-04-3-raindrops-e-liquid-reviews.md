@@ -12,10 +12,10 @@ format: video
 ---
 Loes reviewt 3 liquids van Raindrops
 
-Raindrops Skittles &#8211; <a href="http://www.e-wolk.nl/en/raindrops-skittles.html" target="_blank">http://www.e-wolk.nl/en/raindrops-skittles.html</a>
+Raindrops Skittles &#8211; [http://www.e-wolk.nl/en/raindrops-skittles.html](http://www.e-wolk.nl/en/raindrops-skittles.html)
   
-Raindrops Banana Foster Deluxe &#8211; <a href="http://www.e-wolk.nl/en/raindrops-banana-foster-deluxe.html" target="_blank">http://www.e-wolk.nl/en/raindrops-banana-foster-deluxe.html</a>
+Raindrops Banana Foster Deluxe &#8211; [http://www.e-wolk.nl/en/raindrops-banana-foster-deluxe.html](http://www.e-wolk.nl/en/raindrops-banana-foster-deluxe.html)
   
-Raindrops Strawberry Cheesecake &#8211; <a href="http://www.e-wolk.nl/en/raindrops-strawberry-cheesecake.html" target="_blank">http://www.e-wolk.nl/en/raindrops-strawberry-cheesecake.html</a>
+Raindrops Strawberry Cheesecake &#8211; [http://www.e-wolk.nl/en/raindrops-strawberry-cheesecake.html](http://www.e-wolk.nl/en/raindrops-strawberry-cheesecake.html)
 
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='474' height='297' src='https://www.youtube.com/embed/BXEzXER4tgM?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span>
+{{< youtube BXEzXER4tgM >}}

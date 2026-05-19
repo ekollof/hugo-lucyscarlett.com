@@ -1,0 +1,27 @@
+<script type="application/ld+json">
+{
+    "@context" : "http://schema.org",
+    "@type" : "BlogPosting",
+    "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": {{ .Site.BaseURL | jsonify }}
+    },
+    "articleSection" : {{ .Section | jsonify }},
+    "name" : {{ .Title | jsonify }},
+    "headline" : {{ .Title | jsonify }},
+    "description" : {{ if .Description }}{{ .Description | jsonify }}{{ else if .IsPage }}{{ .Summary | jsonify }}{{ else }}null{{ end }},
+    "inLanguage" : "en",
+    "author" : {{ .Page.Params.author | jsonify }},
+    "creator" : {{ .Page.Params.author | jsonify }},
+    "publisher": {{ .Page.Params.author | jsonify }},
+    "accountablePerson" : {{ .Page.Params.author | jsonify }},
+    "copyrightHolder" : {{ .Page.Params.author | jsonify }},
+    "copyrightYear" : {{ .Date.Format "2006" | jsonify }},
+    "datePublished": {{ .Date | jsonify }},
+    "dateModified" : {{ .Date | jsonify }},
+    "url" : {{ .Permalink | jsonify }},
+    "wordCount" : {{ .WordCount }},
+    "image" : {{ printf "%s%s" .Site.BaseURL .Page.Params.image | jsonify }},
+    "keywords" : [{{ range $i, $tag := .Params.tags }}{{ if $i }}, {{ end }}{{ $tag | jsonify }}{{ end }}{{ if and .Params.tags (gt (len .Params.tags) 0) }}, {{ end }}"Blog"]
+}
+</script>

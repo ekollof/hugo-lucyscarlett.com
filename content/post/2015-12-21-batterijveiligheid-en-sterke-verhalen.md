@@ -14,14 +14,16 @@ format: video
 ---
 Deze keer hebben we het over de batterijen die je gebruikt bij het dampen, en de beveiligingen die in je appraratuur zit.
 
-&nbsp;
+ 
 
 Boodschappenlijst:
 
-Nitecore D4 &#8211; <a href="https://www.zwoofs.nl/nitecore-d4-digicharger-oplader/" target="_blank">https://www.zwoofs.nl/nitecore-d4-digicharger-oplader/<br /> </a>LG 18650 batterijen &#8211; <a href="https://www.zwoofs.nl/batterijen-opladers-elektrisch-roken/mod-batterijen/18650-batterijen/lg-hg2-40a-18650-flattop/" target="_blank">https://www.zwoofs.nl/batterijen-opladers-elektrisch-roken/mod-batterijen/18650-batterijen/lg-hg2-40a-18650-flattop/<br /> </a>Artikel over batterijveiligheid &#8211; <a href="https://www.zwoofs.nl/batterij-veiligheid" target="_blank">https://www.zwoofs.nl/batterij-veiligheid</a>
+Nitecore D4 &#8211; [https://www.zwoofs.nl/nitecore-d4-digicharger-oplader/
+](https://www.zwoofs.nl/nitecore-d4-digicharger-oplader/)LG 18650 batterijen &#8211; [https://www.zwoofs.nl/batterijen-opladers-elektrisch-roken/mod-batterijen/18650-batterijen/lg-hg2-40a-18650-flattop/
+](https://www.zwoofs.nl/batterijen-opladers-elektrisch-roken/mod-batterijen/18650-batterijen/lg-hg2-40a-18650-flattop/)Artikel over batterijveiligheid &#8211; [https://www.zwoofs.nl/batterij-veiligheid](https://www.zwoofs.nl/batterij-veiligheid)
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='474' height='297' src='https://www.youtube.com/embed/pP85Ib8wbIw?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span>
+{{< youtube pP85Ib8wbIw >}}

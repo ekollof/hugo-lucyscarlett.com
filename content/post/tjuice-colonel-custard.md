@@ -12,4 +12,4 @@ categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
 Loes reviewt 5 smaken van Tjuice. 
 Dit is het 1e fimpje Colonel Custard
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LPGuyTVzRvw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube LPGuyTVzRvw >}}

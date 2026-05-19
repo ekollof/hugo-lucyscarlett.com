@@ -1,12 +1,10 @@
 baseurl = "https://lucyscarlett.com"
 title = "Lucy Scarlett"
 theme = "hugo-nederburg-theme"
-languageCode = "nl-nl"
+locale = "nl-nl"
 DefaultContentLanguage = "nl-nl"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "lucyscarlett"
-# Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-28269742-1"
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 

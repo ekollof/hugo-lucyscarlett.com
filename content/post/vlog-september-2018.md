@@ -13,4 +13,4 @@ In deze volg leggen we uit waarom. Ook hebben we het over het schudden van vloei
 Link naar het nicotine congres
 https://www.srnt-e-munich.com/
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EBMPSKoMyCI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube EBMPSKoMyCI >}}

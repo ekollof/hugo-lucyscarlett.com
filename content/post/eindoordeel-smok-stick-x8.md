@@ -14,4 +14,4 @@ Loes geeft haar mening over hoe zij de Smok stik in gebruik vond de afgelopen we
 Deze damper is door haar zelf gekocht bij Zwoofs. 
 https://www.zwoofs.nl/smok-stick-x8-kit/
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CCJFMOOgTJE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube CCJFMOOgTJE >}}

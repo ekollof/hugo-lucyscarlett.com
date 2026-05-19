@@ -12,6 +12,6 @@ format: video
 ---
 De topbox mini starterkit, gereviewed door Loes en Emiel.
 
-Verkrijgbaar bij fasttech: <a href="https://www.fasttech.com/products/0/10014058/4024300-authentic-kangertech-topbox-mini-starter-kit" target="_blank">https://www.fasttech.com/products/0/10014058/4024300-authentic-kangertech-topbox-mini-starter-kit</a>
+Verkrijgbaar bij fasttech: [https://www.fasttech.com/products/0/10014058/4024300-authentic-kangertech-topbox-mini-starter-kit](https://www.fasttech.com/products/0/10014058/4024300-authentic-kangertech-topbox-mini-starter-kit)
 
 [embedyt] http://www.youtube.com/watch?v=iCUBACpgMos[/embedyt]

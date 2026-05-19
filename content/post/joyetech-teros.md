@@ -12,4 +12,4 @@ categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
 Ook Emiel moest een podsysteem hebben.
 Hij heeft de Joyetech Teros gekocht en samen met Loes verteld hij over wat hij er van vind en wat er in de doos zit
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cgsBBg3yuJY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube cgsBBg3yuJY >}}

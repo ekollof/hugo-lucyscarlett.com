@@ -15,4 +15,4 @@ Zowel de smok stick als de vloeistof zijn zelf gekocht bij Zwoofs
 https://www.zwoofs.nl/smok-stick-x8-kit/
 https://www.zwoofs.nl/element-e-liquids-fresh-squeeze/
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ROuRKzfc3Os" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube ROuRKzfc3Os >}}

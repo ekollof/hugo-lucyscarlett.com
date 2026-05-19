@@ -14,12 +14,12 @@ Emiel bouwt een subtank mini (niet meer verkrijgbaar in Nederland door domme wet
 
 Boodschappenlijstje:
 
-Kangertech Subtank Mini: <a href="https://www.fasttech.com/product/2106401-authentic-kangertech-subtank-mini-clearomizer" target="_blank">https://www.fasttech.com/product/2106401-authentic-kangertech-subtank-mini-clearomizer</a>
+Kangertech Subtank Mini: [https://www.fasttech.com/product/2106401-authentic-kangertech-subtank-mini-clearomizer](https://www.fasttech.com/product/2106401-authentic-kangertech-subtank-mini-clearomizer)
   
-UD SS316L coildraad: <a href="https://www.zwoofs.nl/ud-youde-rvs-stainless-ss316l-draad-wire/" target="_blank">https://www.zwoofs.nl/ud-youde-rvs-stainless-ss316l-draad-wire/</a>
+UD SS316L coildraad: [https://www.zwoofs.nl/ud-youde-rvs-stainless-ss316l-draad-wire/](https://www.zwoofs.nl/ud-youde-rvs-stainless-ss316l-draad-wire/)
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='474' height='297' src='https://www.youtube.com/embed/U4ecZ6YMkwg?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span>
+{{< youtube U4ecZ6YMkwg >}}

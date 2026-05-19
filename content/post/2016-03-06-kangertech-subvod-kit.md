@@ -12,14 +12,14 @@ format: video
 ---
 Loes reviewt haar nieuwe Subvod kits
 
-&nbsp;
+ 
 
 Boodschappenlijstje:
 
-<a href="https://www.fasttech.com/products/0/10014058/3715800-authentic-kanger-subvod-starter-kit" target="_blank">https://www.fasttech.com/products/0/10014058/3715800-authentic-kanger-subvod-starter-kit</a>
+[https://www.fasttech.com/products/0/10014058/3715800-authentic-kanger-subvod-starter-kit](https://www.fasttech.com/products/0/10014058/3715800-authentic-kanger-subvod-starter-kit)
 
-&nbsp;
+ 
 
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='474' height='297' src='https://www.youtube.com/embed/htMOtlO7m6g?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span>
+{{< youtube htMOtlO7m6g >}}
 
-&nbsp;
+ 

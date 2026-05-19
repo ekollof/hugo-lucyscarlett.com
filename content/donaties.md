@@ -10,7 +10,4 @@ Lucy Scarlett heeft geen sponsoring. We betalen alles uit eigen zak, en we doen 
 
 Direct overschrijven:
 
-<center>
-<script src="https://bunq.me/app/js/embed/bunqme.js"; type="text/javascript" async></script>
-<div id="bunqMe" data-alias="https://bunq.me/LucyScarlettIDW"></div>
-</center>
+{{< bunq >}}

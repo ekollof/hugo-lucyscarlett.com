@@ -15,4 +15,4 @@ https://ec.europa.eu/eusurvey/runner/Tobacco_evaluation_2018
 Link Canada (wel in het engels)  
 https://www.canada.ca/en/health-canada/services/smoking-tobacco/vaping.html
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fm31W0xyMV4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube Fm31W0xyMV4 >}}

@@ -16,4 +16,4 @@ Loes reviewt de Empire lijn van Colinss.
 
 Dit is het 4e filmpje van 5: Empire Red
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jMhyyYuq72A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube jMhyyYuq72A >}}

@@ -12,10 +12,10 @@ format: video
 ---
 De rest van de Safari Juice lijn gereviewed door Loes (en Emiel)
 
-<a href="https://safarijuice.com/products/the-zebra" target="_blank">https://safarijuice.com/products/the-zebra</a>
+[https://safarijuice.com/products/the-zebra](https://safarijuice.com/products/the-zebra)
   
-<a href="https://safarijuice.com/products/the-bushbaby" target="_blank">https://safarijuice.com/products/the-bushbaby</a>
+[https://safarijuice.com/products/the-bushbaby](https://safarijuice.com/products/the-bushbaby)
   
-<a href="https://safarijuice.com/products/the-oryx" target="_blank">https://safarijuice.com/products/the-oryx</a>
+[https://safarijuice.com/products/the-oryx](https://safarijuice.com/products/the-oryx)
 
 [embedyt] http://www.youtube.com/watch?v=7cNhvGe-sBk[/embedyt]

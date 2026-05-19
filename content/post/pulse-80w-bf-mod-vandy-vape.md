@@ -10,4 +10,4 @@ categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
 ---
 Emiel heeft een nieuwe mod. De Pulse 80w BF mod van Vandy Vape. In dit filmpje verteld  hij zijn 1e indruk en wat de mod kan
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cRen7PhJ8ts" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube cRen7PhJ8ts >}}

@@ -12,4 +12,4 @@ In deze vlog hebben we het over ons weekendje Brugge en de verschillen tussen Be
 Website Belgische damp winkel
 https://dampshop.be/
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uwKjDO7Lf8A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube uwKjDO7Lf8A >}}

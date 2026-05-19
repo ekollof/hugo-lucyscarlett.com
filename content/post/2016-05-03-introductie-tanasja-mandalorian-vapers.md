@@ -16,6 +16,6 @@ In dit filmpje introduceert Tanas zich zelf.
 
 Tanas en Erwin hebben zelf ook een Youtube kanaal over dampen in het Engels.
   
-<a href="https://www.youtube.com/channel/UC66PCoN-m3mu4VRNBbAVLVQ" target="_blank">https://www.youtube.com/channel/UC66PCoN-m3mu4VRNBbAVLVQ</a> en een website: <a href="http://www.mandalorianvapers.com/" target="_blank">http://www.mandalorianvapers.com/</a>
+[https://www.youtube.com/channel/UC66PCoN-m3mu4VRNBbAVLVQ](https://www.youtube.com/channel/UC66PCoN-m3mu4VRNBbAVLVQ) en een website: [http://www.mandalorianvapers.com/](http://www.mandalorianvapers.com/)
 
 [embedyt] http://www.youtube.com/watch?v=mNHKxdXAXnw[/embedyt]

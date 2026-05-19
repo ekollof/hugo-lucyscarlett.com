@@ -14,4 +14,4 @@ tags:
 
 Loes reviewt de smaken van FIFTY SHADES OF VAPE. Dit is het 8e en laatste filmpje in een serie van 8: Vanilla Caramel
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yq7tbSajYuk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube yq7tbSajYuk >}}

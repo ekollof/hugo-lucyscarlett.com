@@ -18,4 +18,4 @@ Eco waarschijnlijk omdat die economisch geprijsd is. Ik pak hem uit, laat zien w
 
 De vloeistof die ik er in heb gedaan is de Watermelon van AraMax!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7lXX5JlmIKY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube 7lXX5JlmIKY >}}

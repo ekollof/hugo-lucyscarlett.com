@@ -14,24 +14,24 @@ Loes geeft haar mening over drie vloeistoffen die Emiel bij UKEcigStore gekocht 
   
 Van One Hit wonder de Rocket man en Police man en van Exodus vapors de Red Sea.
 
-<a href="https://www.ukecigstore.com/red-sea-exodus-vapor.html" target="_blank">https://www.ukecigstore.com/red-sea-exodus-vapor.html</a>
+[https://www.ukecigstore.com/red-sea-exodus-vapor.html](https://www.ukecigstore.com/red-sea-exodus-vapor.html)
   
-<a href="https://www.ukecigstore.com/one-hit-wonder-e-liquid-rocket-man-180ml.html" target="_blank">https://www.ukecigstore.com/one-hit-wonder-e-liquid-rocket-man-180ml.html</a>
+[https://www.ukecigstore.com/one-hit-wonder-e-liquid-rocket-man-180ml.html](https://www.ukecigstore.com/one-hit-wonder-e-liquid-rocket-man-180ml.html)
   
-<a href="https://www.ukecigstore.com/one-hit-wonder-e-liquid-police-man-180ml.html" target="_blank">https://www.ukecigstore.com/one-hit-wonder-e-liquid-police-man-180ml.html</a>
+[https://www.ukecigstore.com/one-hit-wonder-e-liquid-police-man-180ml.html](https://www.ukecigstore.com/one-hit-wonder-e-liquid-police-man-180ml.html)
   
 Kom ook eens langs op
   
-<a href="http://facebook.com/lucyindewolken" target="_blank">www.facebook.com/lucyindewolken</a>
+[www.facebook.com/lucyindewolken](http://facebook.com/lucyindewolken)
   
-<a href="https://twitter.com/indewolkenls" target="_blank">https://twitter.com/indewolkenls</a>
+[https://twitter.com/indewolkenls](https://twitter.com/indewolkenls)
 
 Als je tijd heb kijk ook even op:
   
-<a href="http://www.dampforum.nu/" target="_blank">http://www.dampforum.nu/</a>
+[http://www.dampforum.nu/](http://www.dampforum.nu/)
   
-<a href="http://www.acvoda.nl/" target="_blank">http://www.acvoda.nl/</a>
+[http://www.acvoda.nl/](http://www.acvoda.nl/)
 
-&nbsp;
+ 
 
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='474' height='297' src='https://www.youtube.com/embed/_g1zUdjBB0I?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span>
+{{< youtube _g1zUdjBB0I >}}

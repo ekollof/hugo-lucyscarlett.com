@@ -14,22 +14,22 @@ Loes en Emiel hebben het deze keer over de net in werking getreden europese taba
 
 Het artikel van Acvoda
   
-<a href="http://www.acvoda.nl/2016/05/20/tabakswet-20-mei-wat-verandert-er-nu-eigenlijk-voor-de-damper/#more-2061" target="_blank">http://www.acvoda.nl/2016/05/20/tabakswet-20-mei-wat-verandert-er-nu-eigenlijk-voor-de-damper/#more-2061</a>
+[http://www.acvoda.nl/2016/05/20/tabakswet-20-mei-wat-verandert-er-nu-eigenlijk-voor-de-damper/#more-2061](http://www.acvoda.nl/2016/05/20/tabakswet-20-mei-wat-verandert-er-nu-eigenlijk-voor-de-damper/#more-2061)
 
 Link naar de BBC documentaire. Helaas geen Nederlandse ondertiteling.
   
-<a href="https://www.youtube.com/watch?v=-hu3F_pz1Qg" target="_blank">https://www.youtube.com/watch?v=-hu3F_pz1Qg</a>
+[https://www.youtube.com/watch?v=-hu3F_pz1Qg](https://www.youtube.com/watch?v=-hu3F_pz1Qg)
 
 Kom ook eens langs op
   
-<a href="http://facebook.com/lucyindewolken" target="_blank">http://facebook.com/lucyindewolken</a>
+[http://facebook.com/lucyindewolken](http://facebook.com/lucyindewolken)
   
-<a href="https://twitter.com/indewolkenls" target="_blank">https://twitter.com/indewolkenls</a>
+[https://twitter.com/indewolkenls](https://twitter.com/indewolkenls)
 
 Als je tijd heb kijk ook even op:
   
-<a href="http://www.dampforum.nu/" target="_blank">http://www.dampforum.nu/</a>
+[http://www.dampforum.nu/](http://www.dampforum.nu/)
   
-<a href="http://www.acvoda.nl/" target="_blank">http://www.acvoda.nl/</a>
+[http://www.acvoda.nl/](http://www.acvoda.nl/)
 
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='474' height='297' src='https://www.youtube.com/embed/PmQBXCpBZgk?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span>
+{{< youtube PmQBXCpBZgk >}}

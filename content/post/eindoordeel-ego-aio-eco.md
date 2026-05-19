@@ -11,4 +11,4 @@ categories:  # Aanpassen (hou deze vorm aan, gebruik geen tabs, alleen spaties)
 
 Loes geeft haar oordeel na een paar weken gebruik.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iIPmRS7fE6I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube iIPmRS7fE6I >}}

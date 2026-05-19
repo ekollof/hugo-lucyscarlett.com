@@ -13,4 +13,4 @@ format: video
 Loes reviewt de smaken van FIFTY SHADES OF VAPE. 
 Dit is het 4e filmpje in een serie van 8: Nougat
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NwLgb1lOyE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube 2NwLgb1lOyE >}}

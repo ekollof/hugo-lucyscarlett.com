@@ -26,21 +26,21 @@ Boodschappenlijstje voor wat ik gebruikt heb in onderstaande video:
 
 Liquid
 
-  * Easy vapes indo tea: <a href="https://easyvapes.nl/indo-tea-433" target="_blank">https://easyvapes.nl/indo-tea-433</a>
+  * Easy vapes indo tea: [https://easyvapes.nl/indo-tea-433](https://easyvapes.nl/indo-tea-433)
 
 DIY materiaal:
 
-  * Coilmaster DIY kit 2: <a href="https://www.zwoofs.nl/coilmaster-diy-kit-v2/" target="_blank">https://www.zwoofs.nl/coilmaster-diy-kit-v2/</a> (zit 24g kanthal en katoen bij
-  * Losse kanthal: <a href="https://www.zwoofs.nl/ud-kanthal-a1-10-meter/" target="_blank">https://www.zwoofs.nl/ud-kanthal-a1-10-meter/</a>
-  * Muji katoen: <a href="https://www.zwoofs.nl/muji-cotton-pads-10/" target="_blank">https://www.zwoofs.nl/muji-cotton-pads-10/</a>
+  * Coilmaster DIY kit 2: [https://www.zwoofs.nl/coilmaster-diy-kit-v2/](https://www.zwoofs.nl/coilmaster-diy-kit-v2/) (zit 24g kanthal en katoen bij
+  * Losse kanthal: [https://www.zwoofs.nl/ud-kanthal-a1-10-meter/](https://www.zwoofs.nl/ud-kanthal-a1-10-meter/)
+  * Muji katoen: [https://www.zwoofs.nl/muji-cotton-pads-10/](https://www.zwoofs.nl/muji-cotton-pads-10/)
 
 Mod + RDA:
 
-  * Sigelei 75w TC: <a href="http://www.e-wolk.nl/en/sigelei-75w-tc.html" target="_blank">http://www.e-wolk.nl/en/sigelei-75w-tc.html</a>
-  * Wotofo Freakshow Mini: <a href="https://www.zwoofs.nl/mini-freakshow-wotofo-rda/" target="_blank">https://www.zwoofs.nl/mini-freakshow-wotofo-rda/</a>
+  * Sigelei 75w TC: [http://www.e-wolk.nl/en/sigelei-75w-tc.html](http://www.e-wolk.nl/en/sigelei-75w-tc.html)
+  * Wotofo Freakshow Mini: [https://www.zwoofs.nl/mini-freakshow-wotofo-rda/](https://www.zwoofs.nl/mini-freakshow-wotofo-rda/)
 
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='474' height='297' src='https://www.youtube.com/embed/VMuyuQqTzbs?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span>
+{{< youtube VMuyuQqTzbs >}}
 
-&nbsp;
+ 
 
-&nbsp;
+ 

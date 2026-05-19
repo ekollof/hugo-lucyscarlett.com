@@ -14,12 +14,12 @@ Loes revieuwt deze week 3 vloeistoffen met een tropsiche smaak.
   
 Colinss Empire White, Flavourtec American Stars Jamaican Fruits en UKecigstore Tropic Thunder
   
-<a href="https://easyvapes.nl/colinss-empire-white" target="_blank">https://easyvapes.nl/colinss-empire-white</a>
+[https://easyvapes.nl/colinss-empire-white](https://easyvapes.nl/colinss-empire-white)
   
-<a href="https://easyvapes.nl/american-stars-jamaican-fruits" target="_blank">https://easyvapes.nl/american-stars-jamaican-fruits</a>
+[https://easyvapes.nl/american-stars-jamaican-fruits](https://easyvapes.nl/american-stars-jamaican-fruits)
   
-<a href="https://www.ukecigstore.com/tropic-thunder.html" target="_blank">https://www.ukecigstore.com/tropic-thunder.html</a>
+[https://www.ukecigstore.com/tropic-thunder.html](https://www.ukecigstore.com/tropic-thunder.html)
 
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='474' height='297' src='https://www.youtube.com/embed/6ekHfpvXs5w?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span>
+{{< youtube 6ekHfpvXs5w >}}
 
-&nbsp;
+ 

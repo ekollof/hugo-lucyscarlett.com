@@ -14,9 +14,8 @@ tags:
   - tk2017
 
 ---
-<p style="text-align: left;">
+
   50 plus is redelijk positief over de e-sigaret. Alleen een beetje jammer dat ze nicotine de zwarte piet toeschuiven, terwijl dat het minste is van de gevaren van tabak. Hier is hun antwoord:
-</p>
 
 > Loes we hebben hier nog geen officieel partijstandpunt over, maar in het algemeen zijn we voor alle middelen die mensen kunnen helpen bij het stoppen met roken.
   

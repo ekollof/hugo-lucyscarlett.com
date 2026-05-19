@@ -16,4 +16,4 @@ tags:
 Loes reviewt de Empire lijn van Colinss. 
 Dit is het 2e filmpje van 5: Empire Purple 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeIhRzINYE8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube ZeIhRzINYE8 >}}
